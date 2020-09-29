@@ -1,10 +1,10 @@
 {
   "name": "noback",
   "title": "No Back Button",
-  "description": "Tiny module that prevents the back button leaving the page",
+  "description": "Tiny module that prevents the back button leaving the page accidentally",
   "version": "0.0.1",
   "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.2",
+  "compatibleCoreVersion": "0.7.5",
   "author": "Vance",
   "dependencies": [
 
@@ -20,6 +20,6 @@
     }
   ],
   "url": "https://github.com/VanceCole/noback",
-  "manifest": "",
-  "download": ""
+  "manifest": "https://raw.githubusercontent.com/VanceCole/noback/master/module.json",
+  "download": "https://github.com/VanceCole/noback/releases/download/0.0.1/noback.zip"
 }
