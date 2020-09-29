@@ -1,0 +1,25 @@
+{
+  "name": "noback",
+  "title": "No Back Button",
+  "description": "Tiny module that prevents the back button leaving the page",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.2",
+  "compatibleCoreVersion": "0.7.2",
+  "author": "Vance",
+  "dependencies": [
+
+  ],
+  "esmodules": [
+    "/noback.js"
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "languages/en.json"
+    }
+  ],
+  "url": "https://github.com/VanceCole/noback",
+  "manifest": "",
+  "download": ""
+}
