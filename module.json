@@ -2,7 +2,7 @@
   "name": "noback",
   "title": "No Accidental Back Button",
   "description": "Tiny module that prevents the back button leaving the page accidentally with a confirmation.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minimumCoreVersion": "0.6.2",
   "compatibleCoreVersion": "0.7.5",
   "author": "Vance",
@@ -21,5 +21,5 @@
   ],
   "url": "https://github.com/VanceCole/noback",
   "manifest": "https://raw.githubusercontent.com/VanceCole/noback/master/module.json",
-  "download": "https://github.com/VanceCole/noback/releases/download/0.0.1/noback.zip"
+  "download": "https://github.com/VanceCole/noback/releases/download/0.0.2/noback.zip"
 }
