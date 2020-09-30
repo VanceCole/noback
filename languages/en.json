@@ -1,3 +1,5 @@
 {
-  "NOBACK.confirm": "Are you sure you want to exit?"
+  "NOBACK.confirm": "Are you sure you want to exit?",
+  "NOBACK.prompt": "Issue prompt?",
+  "NOBACK.promptHint": "If disabled, will silently prevent back operation instead of prompting"
 }
